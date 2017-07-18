@@ -13,7 +13,7 @@ var transporter = nodemailer.createTransport({
 
 var mailOptions = {
     from: 'signred@gmail.com',
-    to: 'info@redsign.hu',
+    to: 'info@redsign.hu', /* Multiple addresses add in string with coma separated */
     subject: 'E-mail with Node.js',
     text: 'E-mail content here...'
 };
