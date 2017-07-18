@@ -1,2 +1,2 @@
-# njstraining
-My Node JS training scripts
+# Node JS training
+This repository contains my NodeJS scripts for my studies.
