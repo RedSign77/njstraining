@@ -9,6 +9,7 @@
   },
   "license" : "SEE LICENSE IN LICENCE",
   "dependencies": {
-    "nodemailer": "^4.0.1"
+    "nodemailer": "^4.0.1",
+    "mysql": "^2.13.0"
   }
 }
