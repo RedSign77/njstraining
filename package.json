@@ -1,10 +1,14 @@
 {
   "name": "njstraining",
+  "author": "Németh Zoltán",
   "version": "0.0.1",
   "email": "signred@gmail.com",
   "repository": {
     "type": "git",
     "url": "git://github.com/redsign77/njstraining.git"
   },
-  "license" : "SEE LICENSE IN LICENCE"
+  "license" : "SEE LICENSE IN LICENCE",
+  "dependencies": {
+    "nodemailer": "^4.0.1"
+  }
 }
